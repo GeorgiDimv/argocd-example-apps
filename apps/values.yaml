@@ -1,6 +1,6 @@
 spec:
   destination:
-    server: https://kubernetes.default.svc
+    server: https://api.gd.argocdaas.shoot.canary.k8s-hana.ondemand.com
   source:
     repoURL: https://github.com/GeorgiDimv/argocd-example-apps
     targetRevision: HEAD
